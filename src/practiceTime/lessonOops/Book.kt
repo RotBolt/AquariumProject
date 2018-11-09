@@ -1,4 +1,4 @@
-package practiceTime.lessonOOps
+package practiceTime.lessonOops
 
 open class Book(private val author:String,private val title:String){
     private var pageCount = 0
