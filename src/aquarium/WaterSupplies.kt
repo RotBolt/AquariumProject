@@ -3,6 +3,10 @@ package aquarium
 open class WaterSupply(var needProcessed:Boolean)
 
 class TapWater:WaterSupply(needProcessed = true){
+
+    companion object {
+        val value=1
+    }
     fun addChemicalCleaners(){
         needProcessed=false
     }
