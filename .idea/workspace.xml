@@ -2,19 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6c4554-a03b-473d-8f77-2385488415bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aquarium/AquaInteraction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aquarium/AquaInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/SpiceDemoClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aquarium/WaterSupplies.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/books/Books.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/buildings/Buildings.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOOps/SimpleSpice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOOps/Spice$Companion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOOps/Spice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOOps/SpiceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceTime/lessonOOps/Book.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceTime/lessonOops/Book.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceTime/lessonOOps/SimpleSpice.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/AMSKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/META-INF/AquaruimProject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/META-INF/AquaruimProject.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/aquarium/AquaInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/aquarium/BaseAquarium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/aquarium/BaseAquarium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/aquarium/TowerTank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/aquarium/TowerTank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Curry$YellowSpiceColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Curry$YellowSpiceColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Curry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Curry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Spice$SpiceColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Spice$SpiceColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Spice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/Spice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/SpiceContainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/SpiceContainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/SpiceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AquaruimProject/practiceTime/lessonOops/Spice/SpiceKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AMS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aquarium/AMSTestCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aquarium/AquaInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aquarium/AquaInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aquarium/BaseAquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aquarium/BaseAquarium.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,32 +33,34 @@
     <session id="209365009">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="18" />
+          <entry key="java" value="1" />
+          <entry key="kt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="18" />
+          <entry key="JAVA" value="1" />
+          <entry key="Kotlin" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="6921" />
+          <entry key="kt" value="11337" />
           <entry key="kts" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="6996" />
+          <entry key="Kotlin" value="11412" />
         </counts>
       </usages-collector>
     </session>
@@ -60,28 +68,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AMS.kt">
+        <entry file="file://$PROJECT_DIR$/src/aquarium/AMSTestCode.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="612">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/aquarium/BaseAquarium.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="260">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -89,8 +88,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/aquarium/AquaInterface.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="162">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/buildings/Buildings.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/aquarium/WaterSupplies.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -114,37 +131,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/SpiceDemoClass.kt">
+        <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/books/Books.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="419">
+              <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+            <state relative-caret-position="-101">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Any.kt">
+        <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/Mood.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/FilterCurry.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="101" />
+            <state relative-caret-position="90">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -178,15 +186,20 @@
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOOps/SimpleSpice.kt" />
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice.kt" />
         <option value="$PROJECT_DIR$/src/aquarium/AquariumPlan.kt" />
-        <option value="$PROJECT_DIR$/src/aquarium/BaseAquarium.kt" />
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOOps/Book.kt" />
         <option value="$PROJECT_DIR$/src/aquarium/AquariumFish.kt" />
         <option value="$PROJECT_DIR$/src/aquarium/AquaInteractionInterface.kt" />
-        <option value="$PROJECT_DIR$/src/aquarium/AquaInterface.kt" />
         <option value="$PROJECT_DIR$/src/aquarium/AquaInteraction.kt" />
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice/SpiceDemoClass.kt" />
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice/Spice.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/AMSTestCode.kt" />
         <option value="$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt" />
+        <option value="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/Books.kt" />
+        <option value="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/buildings/BaseBuildingMaterial.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/WaterSupplies.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/AquaInterface.kt" />
+        <option value="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/buildings/Buildings.kt" />
+        <option value="$PROJECT_DIR$/src/aquarium/BaseAquarium.kt" />
       </list>
     </option>
   </component>
@@ -225,6 +238,12 @@
               <item name="AquaruimProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="AquaruimProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aquarium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AquaruimProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AquaruimProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="practiceTime" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,15 +251,15 @@
               <item name="AquaruimProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="practiceTime" type="462c0819:PsiDirectoryNode" />
-              <item name="lessonOops" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonKotlinEssentials" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AquaruimProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="AquaruimProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="practiceTime" type="462c0819:PsiDirectoryNode" />
-              <item name="lessonOops" type="462c0819:PsiDirectoryNode" />
-              <item name="Spice" type="462c0819:PsiDirectoryNode" />
+              <item name="lessonKotlinEssentials" type="462c0819:PsiDirectoryNode" />
+              <item name="buildings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,14 +274,16 @@
     <property name="SearchEverywhereHistoryKey" value="cla&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541750064966" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542114650916" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/books" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/books" />
+      <recent name="$PROJECT_DIR$/src/aquarium" />
       <recent name="$PROJECT_DIR$/src/practiceTime/lessonOOps/Spice" />
       <recent name="$PROJECT_DIR$/src/practiceTime/lessonFunctions" />
     </key>
@@ -279,41 +300,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.practiceTime.lessonOops.Spice.SpiceKt">
-    <configuration name="practiceTime.lessonFunctions.FilterCurryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.practiceTime.lessonKotlinEssentials.buildings.BuildingsKt">
+    <configuration name="aquarium.AquaInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AquaruimProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="practiceTime.lessonFunctions.FilterCurryKt" />
+      <option name="MAIN_CLASS_NAME" value="aquarium.AquaInterfaceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceTime.lessonFunctions.LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="practiceTime.lessonKotlinEssentials.books.BooksKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AquaruimProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="practiceTime.lessonFunctions.LambdasKt" />
+      <option name="MAIN_CLASS_NAME" value="practiceTime.lessonKotlinEssentials.books.BooksKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceTime.lessonFunctions.MoodKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="practiceTime.lessonKotlinEssentials.buildings.BuildingsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="AquaruimProject" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="practiceTime.lessonFunctions.MoodKt" />
+      <option name="MAIN_CLASS_NAME" value="practiceTime.lessonKotlinEssentials.buildings.BuildingsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -346,19 +367,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.practiceTime.lessonFunctions.MoodKt" />
-      <item itemvalue="Kotlin.practiceTime.lessonFunctions.FilterCurryKt" />
-      <item itemvalue="Kotlin.practiceTime.lessonFunctions.LambdasKt" />
       <item itemvalue="Kotlin.practiceTime.lessonOops.Spice.SpiceDemoClassKt" />
       <item itemvalue="Kotlin.practiceTime.lessonOops.Spice.SpiceKt" />
+      <item itemvalue="Kotlin.practiceTime.lessonKotlinEssentials.books.BooksKt" />
+      <item itemvalue="Kotlin.aquarium.AquaInterfaceKt" />
+      <item itemvalue="Kotlin.practiceTime.lessonKotlinEssentials.buildings.BuildingsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.practiceTime.lessonKotlinEssentials.buildings.BuildingsKt" />
+        <item itemvalue="Kotlin.aquarium.AquaInterfaceKt" />
+        <item itemvalue="Kotlin.practiceTime.lessonKotlinEssentials.books.BooksKt" />
         <item itemvalue="Kotlin.practiceTime.lessonOops.Spice.SpiceKt" />
         <item itemvalue="Kotlin.practiceTime.lessonOops.Spice.SpiceDemoClassKt" />
-        <item itemvalue="Kotlin.practiceTime.lessonFunctions.LambdasKt" />
-        <item itemvalue="Kotlin.practiceTime.lessonFunctions.FilterCurryKt" />
-        <item itemvalue="Kotlin.practiceTime.lessonFunctions.MoodKt" />
       </list>
     </recent_temporary>
   </component>
@@ -374,18 +395,19 @@
       <updated>1541517465743</updated>
       <workItem from="1541517469660" duration="317000" />
       <workItem from="1541517803597" duration="10935000" />
-      <workItem from="1541739922352" duration="9682000" />
+      <workItem from="1541739922352" duration="10325000" />
+      <workItem from="1542093194311" duration="15665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20934000" />
+    <option name="totallyTimeSpent" value="37242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="73" y="27" width="1847" height="1053" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25541365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2581899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +416,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5103149" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,8 +426,9 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32899022" />
+      <window_info anchor="right" id="Kotlin Bytecode" weight="0.18323153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24986118" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
@@ -435,33 +458,16 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/PracticeTime/Lesson3.kt" />
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/Lambdas.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9576">
           <caret line="535" column="24" selection-start-line="535" selection-start-column="24" selection-end-line="535" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/FortuneCookie.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/Mood.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -472,66 +478,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/lessonClasses.kt">
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/lessonClasses.kt" />
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOOps/SimpleSpice.kt" />
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Any.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/FilterCurry.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AMS.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aquarium/BaseAquarium.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aquarium/AquaInterface.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/aquarium/AquaInteraction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOOps/SimpleSpice.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOops/Book.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="360">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -542,17 +494,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Any.kt">
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/FilterCurry.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/FortuneCookie.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/Lambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquariumFish.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AMSTestCode.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOops/Spice/Spice.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="-101">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonOops/Book.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/books/Books.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonFunctions/Mood.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquaInteraction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practiceTime/lessonKotlinEssentials/buildings/Buildings.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/AquaInterface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/WaterSupplies.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aquarium/BaseAquarium.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
         </state>
       </provider>
     </entry>
